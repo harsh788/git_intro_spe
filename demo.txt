@@ -1,2 +1,2 @@
 "This is a sample file."
-This line is without quotes. Change on branch test2.
+This line is without quotes. Change on branch test.
